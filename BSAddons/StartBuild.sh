@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Fint the rom
+#Find the rom
 FindRom() {
 Rom=$(<BSAddons/temp/BuildConfR.txt)
   echo "$Rom"
